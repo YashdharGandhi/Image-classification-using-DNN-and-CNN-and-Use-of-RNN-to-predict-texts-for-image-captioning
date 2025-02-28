@@ -47,7 +47,8 @@ The project demonstrates how to combine computer vision and natural language pro
 - **Environment:**  
   - Git Bash for repository management.
   - Jupyter Notebook or JupyterLab for running the provided notebook.
-##Author
+## Author 
 **Yashdhar Gandhi**
-##License
+
+## License
 This project is licensed under the MIT License.
