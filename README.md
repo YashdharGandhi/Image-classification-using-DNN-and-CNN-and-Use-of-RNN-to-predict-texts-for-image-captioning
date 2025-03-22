@@ -1,4 +1,6 @@
-# Image Classification using DNN and CNN with RNN-based Image Captioning
+#  Deep Learning for Image Recognition and Caption Generation
+
+## Image Classification using DNN and CNN with RNN-based Image Captioning
 
 ## Project Overview
 This project implements an end-to-end deep learning pipeline that addresses two main tasks:
